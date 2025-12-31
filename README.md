@@ -2,9 +2,9 @@
 I am a **Data Scientist** passionate about using data, machine learning and deep learning to extract insights and build practical solutions.  
 
 
-- 🔭 I build machine learning / deep-learning / data-analysis projects (see pinned repositories below)  
-- 💬 Always happy to collaborate on interesting data-science / ML / analytics projects  
-- 📫 You can find me on linkedin: https://www.linkedin.com/in/bisola-akinkuolie-3bba01166
+-  I build machine learning / deep-learning / data-analysis projects (see pinned repositories below)  
+-  Always happy to collaborate on interesting data-science / ML / analytics projects  
+- You can find me on linkedin: https://www.linkedin.com/in/bisola-akinkuolie-3bba01166
 
 
 ##  Skills & Tools
