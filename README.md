@@ -23,10 +23,10 @@ I am a **Data Scientist** passionate about using data, machine learning and deep
 
 Here are some of my notable projects (scroll down to repositories for code & details):
 
-- ***Customer Churn Prediction with SHAP explainability**** :using ML to predict ML and providing explainability as to why an individual is likely to churn or why customers in a particulat section are likely to churn.  
+- **Customer Churn Prediction with SHAP explainability** :using ML to predict ML and providing explainability as to why an individual is likely to churn or why customers in a particulat section are likely to churn.  
 - **Predictive Maintenance System** : using machine learning (and optionally deep learning) for predictive maintenance on industrial data.  
 - **Soligence App for Crypto Prediction** : a project exploring crypto-market prediction.  
-- ****End-to-End Heart Disease Classification**: usage of ML to predict patients who are likely to have heart disease.
+- **End-to-End Heart Disease Classification**: usage of ML to predict patients who are likely to have heart disease.
 - **Data Cleaning in SQL** :SQL-based data cleaning & preprocessing utilities / examples.
 
 
