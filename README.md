@@ -26,12 +26,12 @@ Here are some of my notable projects (scroll down to repositories for code & det
 - ***Customer Churn Prediction with SHAP explainability**** :using ML to predict ML and providing explainability as to why an individual is likely to churn or why customers in a particulat section are likely to churn.  
 - **Predictive Maintenance System** : using machine learning (and optionally deep learning) for predictive maintenance on industrial data.  
 - **Soligence App for Crypto Prediction** : a project exploring crypto-market prediction.  
-- **Dog Vision (with TensorFlow)** :deep-learning model to identify dog breeds from images.  
+- ****End-to-End Heart Disease Classification**: usage of ML to predict patients who are likely to have heart disease.
 - **Data Cleaning in SQL** :SQL-based data cleaning & preprocessing utilities / examples.
 
 
 
-##  What I’m Looking For / Where I’m Headed
+##  What I’m Looking For;Where I’m Headed
 
 - Collaborating on **open-source data science or ML projects** : especially ones needing data-cleaning, model prototyping, or dataset preprocessing.  
 - Building **end-to-end ML / DL pipelines** :from data ingestion and cleaning to modelling and evaluation.  
