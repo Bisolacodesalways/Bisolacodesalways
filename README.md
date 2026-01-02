@@ -23,8 +23,7 @@ I am a **Data Scientist** passionate about using data, machine learning and deep
 
 Here are some of my notable projects (scroll down to repositories for code & details):
 
-- **Car Manufacture Project** :data analysis for a car manufacturing business case.  
-- **ADIBOT – Chatbot Project** : a prototype chatbot for customer-centric logistics / support in the retail domain.  
+- ***Customer Churn Prediction with SHAP explainability**** :using ML to predict ML and providing explainability as to why an individual is likely to churn or why customers in a particulat section are likely to churn.  
 - **Predictive Maintenance System** : using machine learning (and optionally deep learning) for predictive maintenance on industrial data.  
 - **Soligence App for Crypto Prediction** : a project exploring crypto-market prediction.  
 - **Dog Vision (with TensorFlow)** :deep-learning model to identify dog breeds from images.  
