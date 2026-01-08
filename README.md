@@ -1,5 +1,5 @@
 # Hi, I’m Bisola 
-I am a **Data Scientist** passionate about using data, machine learning and deep learning to extract insights and build practical solutions.  
+Product-focused data scientist building analytics and ML systems that inform product decisions, experimentation, and customer outcomes.
 
 
 -  I build machine learning / deep-learning / data-analysis projects (see pinned repositories below)  
