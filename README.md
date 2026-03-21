@@ -27,8 +27,7 @@ Here are some of my notable projects (scroll down to repositories for code & det
 - **Predictive Maintenance System** : using machine learning (and optionally deep learning) for predictive maintenance on industrial data.  
 - **Soligence App for Crypto Prediction** : a project exploring crypto-market prediction.  
 - **End-to-End Heart Disease Classification**: usage of ML to predict patients who are likely to have heart disease.
-- **Data Cleaning in SQL** :SQL-based data cleaning & preprocessing utilities / examples.
-
+- **Saas Analytics**: Showcased intermediate to advanced SQL skills for funnel analysis,cohort retention, feature adoption, power users and query performance optimization
 
 
 ##  What I’m Looking For;Where I’m Headed
